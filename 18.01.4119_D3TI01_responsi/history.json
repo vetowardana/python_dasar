@@ -1,0 +1,32 @@
+{
+    "history": [
+        {
+            "nama": "veto",
+            "tinggi": 165.0,
+            "berat": 75.0,
+            "bmi": 27.548209366391188,
+            "status": "Kelebihan berat badan"
+        },
+        {
+            "nama": "wardana",
+            "tinggi": 165.0,
+            "berat": 55.0,
+            "bmi": 20.202020202020204,
+            "status": "Normal (ideal)"
+        },
+        {
+            "nama": "putra",
+            "tinggi": 165.0,
+            "berat": 30.0,
+            "bmi": 11.019283746556475,
+            "status": "Kekurangan berat badan"
+        },
+        {
+            "nama": "eren jaeger",
+            "tinggi": 183.0,
+            "berat": 63.0,
+            "bmi": 18.812147272238644,
+            "status": "Normal (ideal)"
+        }
+    ]
+}

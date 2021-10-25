@@ -1,0 +1,28 @@
+{
+    "nasabah": [
+        {
+            "id": 1,
+            "no_rekening": "12345",
+            "pin": "9876",
+            "nama": "Sugeng",
+            "saldo": 1000000,
+            "bank": "mualamat"
+        },
+        {
+            "id": 2,
+            "no_rekening": "12346",
+            "pin": "8765",
+            "nama": "Putri",
+            "saldo": 1000000,
+            "bank": "mualamat"
+        },
+        {
+            "id": 3,
+            "no_rekening": "9876",
+            "pin": "5555",
+            "nama": "Dayat Emon",
+            "saldo": 1000000,
+            "bank": "sendiri"
+        }
+    ]
+}
